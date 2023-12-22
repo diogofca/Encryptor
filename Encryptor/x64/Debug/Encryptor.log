@@ -1,0 +1,3 @@
+﻿  Encryptor.cpp
+C:\Users\kdiog\source\repos\Encryptor\Encryptor\Encryptor.cpp(39,23): warning C4018: '<': signed/unsigned mismatch
+  Encryptor.vcxproj -> C:\Users\kdiog\source\repos\Encryptor\x64\Debug\Encryptor.exe
